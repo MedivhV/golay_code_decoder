@@ -45,3 +45,4 @@ class Matrix:
                 result[j] = result[j] + self._data[i][j]*vector[i]
         return result
             
+test
